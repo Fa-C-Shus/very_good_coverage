@@ -1,3 +1,7 @@
+# 3.1.0
+
+- chore!: update to node 24
+
 # 3.0.0
 
 - chore(deps): bump prettier from 3.1.0 to 3.2.5 ([#311](https://github.com/VeryGoodOpenSource/very_good_coverage/pull/311))

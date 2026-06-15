@@ -17,7 +17,7 @@
     "url": "git+https://github.com/VeryGoodOpenSource/very_good_coverage.git"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=24"
   },
   "keywords": [
     "GitHub",
