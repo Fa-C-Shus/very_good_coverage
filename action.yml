@@ -11,7 +11,7 @@ inputs:
   min_coverage:
     description: 'minimum coverage percentage allowed'
     required: false
-    default: 100
+    default: 95
   exclude:
     description: 'list of files you would like to exclude from coverage'
     required: false
